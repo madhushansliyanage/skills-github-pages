@@ -1,10 +1,10 @@
 ---
-title: Welcome to my blog
+title: About Me
 ---
 
-# Hi, I'm Madhushan
+## Hi, I'm Madhushan
 
-## An enthusiastic software developer
+### An enthusiastic software developer
 - 📫 How to reach me **madhushansliyanage@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
